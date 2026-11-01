@@ -23,6 +23,9 @@
 - [Powersports dealer Long Island Bay Shore guide](https://local-business-guides.github.io/ar-motorsports-bay-shore/powersports-dealer-long-island-bay-shore/): Searching for a powersports dealer Long Island Bay Shore shoppers can call? Check fit and inventory details with AR Motorsports in Bay Shore today.
 - [Motorcycle service Bay Shore guide](https://local-business-guides.github.io/ar-motorsports-bay-shore/motorcycle-service-bay-shore/): Need motorcycle service Bay Shore riders can check before visiting? Call AR Motorsports in Bay Shore to confirm the right next step for your bike.
 
+## Newsroom
+- [AR Motorsports Shares Guide on Motorsports in Bay Shore](https://local-business-guides.github.io/ar-motorsports-bay-shore/news/2026-11-01-ar-motorsports-shares-guide-on-motorsports-in-bay/): AR Motorsports published a guide about motorsports in Bay Shore, with a YouTube video, a podcast episode and a SoundCloud audio version. (2026-11-01)
+
 ## Pages
 - [Motorsports in Bay Shore, New York](https://local-business-guides.github.io/ar-motorsports-bay-shore/): Find pre-owned cars, trucks, and SUVs with a local team ready to help in Bay Shore. Call +1631-333-1233.
 - [About AR Motorsports](https://local-business-guides.github.io/ar-motorsports-bay-shore/about/): About AR Motorsports, Bay Shore.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/ar-motorsports-bay-shore/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/ar-motorsports-bay-shore/news/rss.xml)
 - [Main resource site](https://ar-motorsports-bay-shore-guide.warmape5.chatgpt.site)
